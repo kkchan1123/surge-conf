@@ -315,7 +315,3 @@ FINAL,DIRECT
 ^https?://.+/.*\?(.*&)?spm=[^&]*(.*) $1$2 302
 
 [MITM]
-enable = false
-hostname = 
-ca-passphrase = 
-ca-p12 =
